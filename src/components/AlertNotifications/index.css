@@ -1,0 +1,50 @@
+/* Write your CSS here */
+.success {
+  font-family: Roboto;
+  font-size: 22px;
+  color: #2dca73;
+}
+
+.warning {
+  font-size: 22px;
+  font-family: Roboto;
+  color: #ffb800;
+}
+
+.error {
+  font-family: Roboto;
+  font-size: 22px;
+  color: #ff0b37;
+}
+
+.info {
+  font-size: 22px;
+  font-family: Roboto;
+  color: #0f81e0;
+}
+
+.para {
+  color: #475569;
+}
+
+.container-1 {
+  max-width: 400px;
+  display: flex;
+  flex-direction: column;
+  margin: 0px;
+}
+
+.whole-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 500px;
+}
+
+.text-container {
+  border-width: 2px;
+  border-color: black;
+  border-radius: 4px;
+  margin: 10px;
+}

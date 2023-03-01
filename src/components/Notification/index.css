@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.container {
+  display: flex;
+  justify-content: space-between;
+  max-width: 500px;
+  border-radius: 5px;
+  border-color: black;
+  border-width: 1px;
+  border-style: solid;
+  margin: 10px;
+}
